@@ -3,17 +3,15 @@
     <channel>
         <title>Sparkle-test</title>
         <item>
-            <title>Version 17</title>
+            <title>Version 18</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                <![CDATA[
-                nuova versione
-                ]]>
+                test upload tramite fastlane
             </description>
-            <enclosure url=" https://github.com/matteospada/astro_beta/releases/download/17/Sparkle-Test.dmg" length="1163283" type="application/octet-stream" sparkle:edSignature=sparkle:edSignature="+372gCP4S1U9XqYw31t/+mG3kbp/6ZDK6qUjVBov/qG6TPlMSBSxhQFriyZOBFBf0AW4pNrJsxbTY3F1YflfAQ==" length="1163283"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/18/Sparkle-Test.dmg" type="application/octet-stream" sparkle:edSignature="KzC0ciyi0My4B25RlIkRvOqDwDHCPvWhP1GQO/51jU/wm6PNGek4u18SV8f4mz9NL89VX6jCeaJbS4f48wCGBg==" length="1163255"
  /> 
         </item>
     </channel>
