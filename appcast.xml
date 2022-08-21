@@ -9,9 +9,9 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                test upload
+                test fastlane 2
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/20/Sparkle-Test.dmg" type="application/octet-stream" sparkle:edSignature="ln9to8MLEM0S/S+5tIdxAfS0zuwzLUn2XRa8nc7/zH4xdZTdkT9rFQjc8mGRPIIsX59aJiIUgOJ8Q7SypmZjDw==" length="1163280"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/20/Sparkle-Test.dmg" type="application/octet-stream" sparkle:edSignature="0Jry4hc26unUfADaalYwm20iqzhSzFhTdr6/XHFMaMfG7XC0KSWvrh5wOVb2rvfub6BsXiINHVfjGCE0qOLEAA==" length="1163280"
  /> 
         </item>
     </channel>
