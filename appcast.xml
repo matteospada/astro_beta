@@ -1,1 +1,20 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sparkle-test</title>
+        <item>
+            <title>Version 17</title>
+            <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <description>
+                <![CDATA[
+                nuova versione
+                ]]>
+            </description>
+            <enclosure url=" https://github.com/matteospada/astro_beta/releases/download/17/Sparkle-Test.dmg" length="1163283" type="application/octet-stream" sparkle:edSignature=sparkle:edSignature="+372gCP4S1U9XqYw31t/+mG3kbp/6ZDK6qUjVBov/qG6TPlMSBSxhQFriyZOBFBf0AW4pNrJsxbTY3F1YflfAQ==" length="1163283"
+ /> 
+        </item>
+    </channel>
+</rss>
