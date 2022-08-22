@@ -3,15 +3,15 @@
     <channel>
         <title>Sparkle-test</title>
         <item>
-            <title>Version 3</title>
+            <title>Version 2</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                First beta release
+                first beta
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/3/ASTRO.dmg" type="application/octet-stream" sparkle:edSignature="BnKr6sN8CVH2cfa1ZlDz5cJQdsH6gpvwdJSBMUySYjmp4Cj97W7oTwlAhGm7FroVCH1ix2nWUdZmOENvjeHsAw==" length="2896673"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/2/Astro.dmg" type="application/octet-stream" sparkle:edSignature="q5Gk6DC8HZV5gTzj5Qm2b2FBZxOn2cKBgOr5T7dkvK9H7AHRAz4J+DzQmdlfybkhSHWA5fX348Tgdmiq7oUgAw==" length="2896696"
  /> 
         </item>
     </channel>
