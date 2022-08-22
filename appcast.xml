@@ -3,15 +3,15 @@
     <channel>
         <title>Sparkle-test</title>
         <item>
-            <title>Version 20</title>
+            <title>Version 26</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>20</sparkle:version>
+            <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                test fastlane 2
+                test upload fastlane
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/20/Sparkle-Test.dmg" type="application/octet-stream" sparkle:edSignature="0Jry4hc26unUfADaalYwm20iqzhSzFhTdr6/XHFMaMfG7XC0KSWvrh5wOVb2rvfub6BsXiINHVfjGCE0qOLEAA==" length="1163280"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/26/Sparkle-Test.dmg" type="application/octet-stream" sparkle:edSignature="sRiOWJfW5mzRx025TDbg3I49kzMh8evMwn8GDmjj/h2AJKha1plHxMQ5JFuo42VHNpbdctq5JxoGekgKulCXCA==" length="1163277"
  /> 
         </item>
     </channel>
