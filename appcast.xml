@@ -3,9 +3,9 @@
     <channel>
         <title>Sparkle-test</title>
         <item>
-            <title>Version 2</title>
+            <title>Version 3</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
@@ -25,7 +25,7 @@
 - Added onboarding screen
 - Removed Set as Primary
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/2/Astro.dmg" type="application/octet-stream" sparkle:edSignature="gBUju5DPvnaI7vdnxsbFN1H/6dfdwFrmUXlKDCmmkAtrGn1cG4o5M/fGlQl1eTTfAB7zsagrSRtRzszD/oiMBw==" length="2963574"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/3/Astro.dmg" type="application/octet-stream" sparkle:edSignature="WgO4HbV+xmnCqly+ksqYTct7V3PKv6XPmEHBo7s5Sc59vFAQ4ikTowsIkZ1nu9JxBZKoI87aD4NN6KZk4RjzBw==" length="2963526"
  /> 
         </item>
     </channel>
