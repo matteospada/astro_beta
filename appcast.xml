@@ -9,9 +9,23 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                first beta
+                Release Note beta: 3
+
+- Now you can sort the keywords for popularity, difficulty change, ranking position and name.
+- In the preferences menu now you can decide if enable or not automatic updates.
+- Now you can sort the suggestions
+- The Select a Store button now is a label
+- The validate button in the License view now looks like a button.
+- The first column Ranking was renamed in Ranking Position
+- Correct typo in “to many request”
+- Added placeholder to Keyword fields: “You can add multiple keywords separated by a comma”
+- Fixed crash with Keyword: tablica wyników
+- If the user is already logged in, the web view will not be shown.
+- Added shortcut to automatically open keyword field command + N
+- Added onboarding screen
+- Removed Set as Primary
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/2/Astro.dmg" type="application/octet-stream" sparkle:edSignature="q5Gk6DC8HZV5gTzj5Qm2b2FBZxOn2cKBgOr5T7dkvK9H7AHRAz4J+DzQmdlfybkhSHWA5fX348Tgdmiq7oUgAw==" length="2896696"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/2/Astro.dmg" type="application/octet-stream" sparkle:edSignature="gBUju5DPvnaI7vdnxsbFN1H/6dfdwFrmUXlKDCmmkAtrGn1cG4o5M/fGlQl1eTTfAB7zsagrSRtRzszD/oiMBw==" length="2963574"
  /> 
         </item>
     </channel>
