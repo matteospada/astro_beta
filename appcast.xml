@@ -9,23 +9,15 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Release Note beta: 3
+                Release Note beta: 4
 
-- Now you can sort the keywords for popularity, difficulty change, ranking position and name.
-- In the preferences menu now you can decide if enable or not automatic updates.
-- Now you can sort the suggestions
-- The Select a Store button now is a label
-- The validate button in the License view now looks like a button.
-- The first column Ranking was renamed in Ranking Position
-- Correct typo in “to many request”
-- Added placeholder to Keyword fields: “You can add multiple keywords separated by a comma”
-- Fixed crash with Keyword: tablica wyników
-- If the user is already logged in, the web view will not be shown.
-- Added shortcut to automatically open keyword field command + N
-- Added onboarding screen
-- Removed Set as Primary
+- Added copy and paste for keywords
+- Fixed a bug that crash the app when the user try to add a new app.
+- Added the subtitle field in the Show rank view.
+- Added a progressing view when the user add a new app.
+- Added Notes field to add comments to each keyword.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/3/Astro.dmg" type="application/octet-stream" sparkle:edSignature="WgO4HbV+xmnCqly+ksqYTct7V3PKv6XPmEHBo7s5Sc59vFAQ4ikTowsIkZ1nu9JxBZKoI87aD4NN6KZk4RjzBw==" length="2963526"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/3/Astro.dmg" type="application/octet-stream" sparkle:edSignature="EfbiaTSPp1dGEnFqn7LldE94cWwl6iVmycZ9lj1PvavJD0rckYmCEBs2VeUVi2UHlY5SH/lYdrF8CrTmVgspAQ==" length="2989933"
  /> 
         </item>
     </channel>
