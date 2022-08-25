@@ -3,9 +3,9 @@
     <channel>
         <title>Sparkle-test</title>
         <item>
-            <title>Version 3</title>
+            <title>Version 4</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
@@ -17,7 +17,7 @@
 - Added a progressing view when the user add a new app.
 - Added Notes field to add comments to each keyword.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/3/Astro.dmg" type="application/octet-stream" sparkle:edSignature="EfbiaTSPp1dGEnFqn7LldE94cWwl6iVmycZ9lj1PvavJD0rckYmCEBs2VeUVi2UHlY5SH/lYdrF8CrTmVgspAQ==" length="2989933"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/4/Astro.dmg" type="application/octet-stream" sparkle:edSignature="dEI/T3FZyk1hd9/t2OTeNmBSrrCrFJIYsmHkmFKPQA0cHkjlcggWWeMjz8m3jE1bdgXOLWUOtaCEVHJSunUiDw==" length="2989894"
  /> 
         </item>
     </channel>
