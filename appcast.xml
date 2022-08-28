@@ -3,21 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 5</title>
+            <title>Version 6</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Release Note beta: 5
-
-- Added SwiftyBeaver to the project.
-- New notes visualization
-- New Table Column Organization
-- When you sort for “Your Ranking” now N.R is showed at the end.
-- Added link button to open the App Store page inside the browser.
+                added all cookies log.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/5/Astro.dmg" type="application/octet-stream" sparkle:edSignature="RySglPJ+tq2fBR4lQGcBz7QJqGslyna3GdaFKlaB+jmZlP2gLWrIiPDfYRDs85mbBU/IucARFOK7tvRFPmjSAA==" length="3180229"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/6/Astro.dmg" type="application/octet-stream" sparkle:edSignature="btguQsU2DFJJJtuZj2d4g9OTASTXTiUOEBo0c2LA/2HAQ9tG/oNsNDZQDnGnDNE5fyUwNWNDcmA5Cz+kZ1IzAA==" length="3180973"
  /> 
         </item>
     </channel>
