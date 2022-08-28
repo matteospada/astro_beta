@@ -18,6 +18,6 @@ After creating the account, you need to create a new campaign group. You can do 
 
 You are now ready to start using Astro (Download the latest beta release [here]("https://github.com/matteospada/astro_beta/releases/")) To configure ASA in Astro, simply click on the traffic light button (bottom right), log in with your Apple ID and click on the new campaign group just created.
 
-[![Show video](http://img.youtube.com/vi/E9KCxrIJa78/0.jpg)](http://www.youtube.com/watch?v=E9KCxrIJa78 "Astro Apple Search Ads configuration)
+[![Show video](https://img.youtube.com/vi/E9KCxrIJa78/0.jpg)](https://www.youtube.com/watch?v=E9KCxrIJa78)
 
 If everything worked fine, you will see an alert telling you that ASA is configured correctly.
