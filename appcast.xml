@@ -1,23 +1,23 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Sparkle-test</title>
+        <title>Astro</title>
         <item>
-            <title>Version 4</title>
+            <title>Version 5</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Release Note beta: 4
+                Release Note beta: 5
 
-- Added copy and paste for keywords
-- Fixed a bug that crash the app when the user try to add a new app.
-- Added the subtitle field in the Show rank view.
-- Added a progressing view when the user add a new app.
-- Added Notes field to add comments to each keyword.
+- Added SwiftyBeaver to the project.
+- New notes visualization
+- New Table Column Organization
+- When you sort for “Your Ranking” now N.R is showed at the end.
+- Added link button to open the App Store page inside the browser.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/4/Astro.dmg" type="application/octet-stream" sparkle:edSignature="dEI/T3FZyk1hd9/t2OTeNmBSrrCrFJIYsmHkmFKPQA0cHkjlcggWWeMjz8m3jE1bdgXOLWUOtaCEVHJSunUiDw==" length="2989894"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/5/Astro.dmg" type="application/octet-stream" sparkle:edSignature="RySglPJ+tq2fBR4lQGcBz7QJqGslyna3GdaFKlaB+jmZlP2gLWrIiPDfYRDs85mbBU/IucARFOK7tvRFPmjSAA==" length="3180229"
  /> 
         </item>
     </channel>
