@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 8</title>
+            <title>Version 9</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                apple search ads is automatically configured
+                added keyword export.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/8/Astro.dmg" type="application/octet-stream" sparkle:edSignature="FF6TQzQVoFTEZkhAEigmWJolOn/5Ctv1IlOlZoglgyrV6Zy2DMCj+SUosI7uEkgEiBuyZ7yq2MeWteYC0n2+Aw==" length="3177405"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/9/Astro.dmg" type="application/octet-stream" sparkle:edSignature="QG9oU88+euHTkpj/upNzBQIQfJ2jem/AwwO7yVtpACSQwS1RTUra8BpuBs0d2SKSVNF3ZlTJzjjxrs16c7OyCg==" length="3177638"
  /> 
         </item>
     </channel>
