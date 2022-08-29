@@ -13,15 +13,7 @@ Astro works using the data from Apple Search Ads (**ASA**). To start using Astro
 
 If you don't have an ASA account and your Country is not in the list of available countries, you can insert United States.
 
-After creating the account, you need to create a new campaign group. You can do this simply by clicking on Start now on [this page](https://searchads.apple.com/advanced#). 
-After logging in, you must select your name in the upper left corner and click on create new campaigns group. You can name the new group Astro.
-
-
 You are now ready to start using Astro (Download the latest beta release [here](https://github.com/matteospada/astro_beta/releases/)). 
-To configure ASA in Astro, simply click on the traffic light button (bottom right), log in with your Apple ID and click on the new campaign group just created.
-
-VIDEO
-
-[![Show video](https://img.youtube.com/vi/E9KCxrIJa78/0.jpg)](https://www.youtube.com/watch?v=E9KCxrIJa78)
+To configure ASA in Astro, simply click on the traffic light button (bottom right) and log in with your Apple ID.
 
 If everything worked fine, you will see an alert telling you that ASA is correctly configured.
