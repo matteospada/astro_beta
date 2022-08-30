@@ -3,15 +3,21 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 9</title>
+            <title>Version 10</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                added keyword export.
+                Added a check to avoid duplication of keywords.
+
+Added a check to avoid duplication of apps
+
+Added last keyword update indication
+
+Fixed a bug that crash the app randomly when you add a new app.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/9/Astro.dmg" type="application/octet-stream" sparkle:edSignature="QG9oU88+euHTkpj/upNzBQIQfJ2jem/AwwO7yVtpACSQwS1RTUra8BpuBs0d2SKSVNF3ZlTJzjjxrs16c7OyCg==" length="3177638"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/10/Astro.dmg" type="application/octet-stream" sparkle:edSignature="trczx8qGo9zAHYWwmdoZMBLManRjmEBZzoBV+JNB6woPL8iS6MEETq2MMG8VRjMmaPeI7wwh0iVVbEQxN1tQCQ==" length="3177525"
  /> 
         </item>
     </channel>
