@@ -3,15 +3,19 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 12</title>
+            <title>Version 13</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
+            <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug fixing
+                New difficulty algorithm, now the difficulty value is real!
+
+Fixed a bug that showed keywords loading when a duplicate keyword was entered
+
+The country list is now sorted alphabetically.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/12/Astro.dmg" type="application/octet-stream" sparkle:edSignature="SAvHR3sNAwSSnsbcVnO+XpEf4qCPecgDvODmX7xofvFrn89SHMBsSlvR3DDAx5nPP1jU2pRsHZpgyb230bqJAA==" length="3199343"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/13/Astro.dmg" type="application/octet-stream" sparkle:edSignature="KDJAWahq/PXjFu1oCJjnIlH++upcKB4TgN72qVOdED7fHQtzgTFAtDyzAEKG21J6xR4d3BS1uEAIeY5aH3LjDg==" length="3196639"
  /> 
         </item>
     </channel>
