@@ -3,19 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 15</title>
+            <title>Version 16</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
+            <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Added an indicator of the number of keywords added to each store
-
-Added shortcut button to open the store menu: command + J
-
-Added import keywords functions
+                Added new logs
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/15/Astro.dmg" type="application/octet-stream" sparkle:edSignature="MZHuaGBqAsOLOnGQj5WLHpCKfNOxvjuUS3Z040l9UBks+iB0TVSjH6mVNWmKUcH/wNSie/zNa/03fWeFb/IaDQ==" length="3228061"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/16/Astro.dmg" type="application/octet-stream" sparkle:edSignature="lZVTd87PDuXOZf8yTAgKTgnnOBcNHIrHwSjMJlb9XpHtkpT5TQertbRhi2U9u/Hh8cM7/g/44m10GU97PvqNDg==" length="3227942"
  /> 
         </item>
     </channel>
