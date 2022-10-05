@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 17</title>
+            <title>Version 18</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug Fixing
+                NEW Authentication method with Apple ID.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/17/Astro.dmg" type="application/octet-stream" sparkle:edSignature="zhmxmhPBr0VWLY8Q6vJA1l4Rlp5f+uXeXqiDLrzXHEYC47x9Vk2iZr8yrws0aR4GbsXlnlXRt/9Go93rNCh3Cw==" length="3224136"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/18/Astro.dmg" type="application/octet-stream" sparkle:edSignature="1xEJE4Auq2hX8ph5F3eP2Hlr8+Z42+9mv72ZqPRwqP90tOt6yMt819I6w0fe9H8zfeuzS2Lr0dx/fQXHkCnNBw==" length="3228677"
  /> 
         </item>
     </channel>
