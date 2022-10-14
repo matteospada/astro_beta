@@ -3,17 +3,19 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 19</title>
+            <title>Version 20</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>19</sparkle:version>
+            <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                More Logs
-Added SMS auth
-New troubleshooting buttons in preference menu
+                Improved authentication flow.
+
+Improved keywords update flow.
+
+Added info button.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/19/Astro.dmg" type="application/octet-stream" sparkle:edSignature="OvFw/9XbpAR/wAZa3f13lXSPuKQVj2+Wk7lm+mHqHxn3K6TvlT8yAQnr6tkb27o0JOQKJS59zDzccI4jb5K9Dg==" length="3262648"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/20/Astro.dmg" type="application/octet-stream" sparkle:edSignature="wX5YH0FWEgY5qRvWGidCKkunbaYVY31d4m2jAJa/1VQsaRAi4MonYMDlMcl8Fy2EHkGDWbeEXwbJTXg9p/X5Cw==" length="3268649"
  /> 
         </item>
     </channel>
