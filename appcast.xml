@@ -9,13 +9,9 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Improved authentication flow.
-
-Improved keywords update flow.
-
-Added info button.
+                New Gumroad integration.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/20/Astro.dmg" type="application/octet-stream" sparkle:edSignature="wX5YH0FWEgY5qRvWGidCKkunbaYVY31d4m2jAJa/1VQsaRAi4MonYMDlMcl8Fy2EHkGDWbeEXwbJTXg9p/X5Cw==" length="3268649"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/20/Astro.dmg" type="application/octet-stream" sparkle:edSignature="UzsMaxdp8GsDNDwvswLWWyUI68yzK94U2Hq8mkDhcLbrxEqrcLFVnIryW8gmydOygEsx4xTtCAbHeDPzbBIIDw==" length="3305149"
  /> 
         </item>
     </channel>
