@@ -3,15 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 21</title>
+            <title>Version 23</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                New Gumroad license integration.
+                Bug fixing
+Improvements in table view
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/21/Astro.dmg" type="application/octet-stream" sparkle:edSignature="uib8A6vL+2OnKqkd1xUEYaEUKrJq2vKlb9t1oUZADv2lOikmn3Xn2nQn94c9AhGyxjxLBtoyg7QC60AGAEd4DQ==" length="3305134"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/23/Astro.dmg" type="application/octet-stream" sparkle:edSignature="xy+Jrq6rPMFXwCCYSFvhBXCElIC8Uct32XM6P0nnyjh/DU3L5skQzNmMkAGvlyNGtIFAam+aAOeYQWcF1Ds9Cg==" length="3685639"
  /> 
         </item>
     </channel>
