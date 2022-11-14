@@ -3,17 +3,17 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 25</title>
+            <title>Version 26</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>25</sparkle:version>
+            <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug Fixing
-Improved Store selection menu
-Added database cleaning logic
+                UI Improvements
+Added Firebase Analytics 
+Added Firebase Crashlytics
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/25/Astro.dmg" type="application/octet-stream" sparkle:edSignature="AwDsIUk3VuT1ea22WIiW1bSBiYBo/hx1kCQXzCezQBotXu8fjc/065xv7bMYjxASVrrxdxVPDvU9/x4lUo4OBg==" length="3728738"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/26/Astro.dmg" type="application/octet-stream" sparkle:edSignature="aDKuIStOrmmAEM/KlBf4gt0Aoc/PcdDqLqztbEpH/fgcwctLGhjFTadeslhAExTMrr/Knm6MAao5rDXACmJaAg==" length="4124627"
  /> 
         </item>
     </channel>
