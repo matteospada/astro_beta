@@ -9,10 +9,10 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed CoreData bug\n
-Performance improvements
+                Fixed Coredata Bug
+Performance Improvements
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/27/Astro.dmg" type="application/octet-stream" sparkle:edSignature="YAe/ioxt42PHW9GXSsvQGe22oX2icobIczhrdMFewn/r+6x+k1XsMxP+BB2e1Oy4c28zbbXQ9cLUth82+bp6Ag==" length="4114884"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/27/Astro.dmg" type="application/octet-stream" sparkle:edSignature="RdysLgMUIvv4AkypMg7XCPvA8Yb88uK4WmUx3DHaNHL4KEIX57NYDAl2AZCV9riZF0434Oo46f6HfbVGhiq5CQ==" length="4114735"
  /> 
         </item>
     </channel>
