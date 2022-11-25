@@ -3,16 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 27</title>
+            <title>Version 28</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>27</sparkle:version>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed Coredata Bug
-Performance Improvements
+                Added Support Tab in settings
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/27/Astro.dmg" type="application/octet-stream" sparkle:edSignature="RdysLgMUIvv4AkypMg7XCPvA8Yb88uK4WmUx3DHaNHL4KEIX57NYDAl2AZCV9riZF0434Oo46f6HfbVGhiq5CQ==" length="4114735"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/28/Astro.dmg" type="application/octet-stream" sparkle:edSignature="L6OT/CoeMfak6NrjTBshHr73kVlRf8FmjwzVkcAn/3VKOPpdt+NlvsqyGLbTS8pwH+kGUTCiq2E1/On4P4IEBQ==" length="4116233"
  /> 
         </item>
     </channel>
