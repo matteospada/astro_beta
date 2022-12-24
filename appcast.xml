@@ -3,15 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 31</title>
+            <title>Version 33</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>31</sparkle:version>
+            <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Lemon Squeezy Integration
+                UI Improvements
+Bug Fixing
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/31/Astro.dmg" type="application/octet-stream" sparkle:edSignature="Cbz8vEeVuPv3EVBAVA1/TNVUT/gHV/tkvxRRJqUNSalTORiCNxKbsZxGpkmPP8LEw9FtcQXA4fWqtmjcRCAXBg==" length="4169454"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/33/Astro.dmg" type="application/octet-stream" sparkle:edSignature="U6TyKWXQi1gHyJmOxKdaJqhqpspRt99HrnfeoTzMUBHzdA+x2cC2OM8q+mVehq8CB2OkZijuWMTdRvsIxFfdDA==" length="4178968"
  /> 
         </item>
     </channel>
