@@ -3,16 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 33</title>
+            <title>Version 34</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>33</sparkle:version>
+            <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                UI Improvements
-Bug Fixing
+                Bug Fixing - Cancel button in keywords field
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/33/Astro.dmg" type="application/octet-stream" sparkle:edSignature="U6TyKWXQi1gHyJmOxKdaJqhqpspRt99HrnfeoTzMUBHzdA+x2cC2OM8q+mVehq8CB2OkZijuWMTdRvsIxFfdDA==" length="4178968"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/34/Astro.dmg" type="application/octet-stream" sparkle:edSignature="zNmltxb6EB3d3/r/dse9cY/QbrA+RqkLrwHYj3aNZQJOJP3x2ZiyMgWdhtjPBYspi48WGWB40POYWJO6cm9/Bg==" length="5029240"
  /> 
         </item>
     </channel>
