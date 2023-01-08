@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 34</title>
+            <title>Version 35</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>34</sparkle:version>
+            <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug Fixing - Cancel button in keywords field
+                New icon - Fixed a bug in the CSV import/export function - Fixed a bug that didn't allow deleting apps.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/34/Astro.dmg" type="application/octet-stream" sparkle:edSignature="W1PVASOdfEYYrtQNzkWuSf31SpQ10vbumIbTvi+StlP6fysz6LqPY5VOwJ/vN/IZV9tCbPHLMMnIzCi572eyDQ==" length="5029213"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/35/Astro.dmg" type="application/octet-stream" sparkle:edSignature="0SrgsqO0G+tf1YPPs8zupf0S+w/PrW1l6Kt9SpSs0tq/7cSOO0u/5J8/VUo50qFeJBZY8rgdUNHtl7r9ekACDQ==" length="4861658"
  /> 
         </item>
     </channel>
