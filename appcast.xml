@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 37</title>
+            <title>Version 39</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>37</sparkle:version>
+            <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                New display for the suggestions menu, now all suggestions are shown in a single view to make it easier to find new keywords. Added setting to change the default font size of the app. Added button to update the app's name. Bug fixing.
+                New App-Specifc password auth.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/37/Astro.dmg" type="application/octet-stream" sparkle:edSignature="UDbjziW8ispy4iUZqPELAhvmzoKzHhDRbIMfOPNlW0ymQGgVnki8YXP3lKLcnMXspIm2dGJVMKnW71ppd8tRAg==" length="4909306"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/39/Astro.dmg" type="application/octet-stream" sparkle:edSignature="sZQcLlN98afOFjzWcZYXMduOOhsHypHjBlzN4tmR08xscp6PTBX4AFLiyMcP3klvJr8tDO5lkuRuHRF0azxVDA==" length="4849436"
  /> 
         </item>
     </channel>
