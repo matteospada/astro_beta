@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 41</title>
+            <title>Version 42</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug Fixing
+                Certificate Update
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/41/Astro.dmg" type="application/octet-stream" sparkle:edSignature="Op4kGMuRSRKz+hC13FNLk6nA1gqrdy7aWvmg7dKEW/SArmsZGFSxsydgaOoQYvGlAl8d+0XXWqqAjsQip4rrDg==" length="4940114"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/42/Astro.dmg" type="application/octet-stream" sparkle:edSignature="XQo3hjVpj7N9JxvXwRU21gMKN9yoc1hmPlN0vmcQk9jsPo5JIp0qHtpRTVO2dHqs8/gZne6Ip+92rTzrSiwDBQ==" length="4940116"
  /> 
         </item>
     </channel>
