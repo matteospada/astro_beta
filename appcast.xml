@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 42</title>
+            <title>Version 43</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>42</sparkle:version>
+            <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Certificate Update
+                Fixed a bug that prevented logging in using one's app-specific password. Performance improvements. New affiliate banner in settings.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/42/Astro.dmg" type="application/octet-stream" sparkle:edSignature="XQo3hjVpj7N9JxvXwRU21gMKN9yoc1hmPlN0vmcQk9jsPo5JIp0qHtpRTVO2dHqs8/gZne6Ip+92rTzrSiwDBQ==" length="4940116"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/43/Astro.dmg" type="application/octet-stream" sparkle:edSignature="5ej0G1ufKtYg+0q+x8rKLN/UhGCCc9wY1jUz2JIha/qAXCxmbi70+GT4VjKHBWEO5gVuCcux4LuoGrdhnRMMBg==" length="4788092"
  /> 
         </item>
     </channel>
