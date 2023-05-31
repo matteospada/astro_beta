@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 47</title>
+            <title>Version 48</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Improved startup performance
+                SSL certificate issue has been resolved.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/47/Astro.dmg" type="application/octet-stream" sparkle:edSignature="98rxSsqhNGhvmD2idAmIxCHxoWmyg07JsWLY8esH+EGGpiwYGC/Mv+MJcK38ueXHuO1yZFAeyAdci06ZShG1AQ==" length="4788985"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/48/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ads4JLoRuVDjuc3MMdaHsWnRQFV9lZkRHyTzoXESCMrGr73V5jX2jlW/I6AbaYR4J7NxHGD0GNJq/f2A9q8hCg==" length="4756604"
  /> 
         </item>
     </channel>
