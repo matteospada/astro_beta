@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 55</title>
+            <title>Version 56</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Added support for Mac, Apple TV, and Apple Watch applications. Additionally, it is now possible to freely modify the name of an app.
+                UI improvements and Bug fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/55/Astro.dmg" type="application/octet-stream" sparkle:edSignature="okXjyao5K2f3dOR3TbYsoDK6S+o5a5bNGpVE5l+dZWC5GBSFJ+dHOD2djaDsemQMlQzUH6cVVQkuZ3EN6M4BDw==" length="5097406"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/56/Astro.dmg" type="application/octet-stream" sparkle:edSignature="KwsYNvYt5HGUNhfRmbLWoLQtIdtD55E0GyKRBjl9AIsZk71StjH6zaxlCohAcllYNKFx67+/EN3i6DaMT55FBg==" length="5103548"
  /> 
         </item>
     </channel>
