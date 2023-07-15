@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 57</title>
+            <title>Version 60</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>57</sparkle:version>
+            <sparkle:version>60</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                In this version, integration with the DeepL translation service has been added. To use it, simply create an account on deepl.com and add your API key.
+                Added translation functionality using DeepL APIs. In the notes view, a button has been added to automatically translate keywords. Additionally, in the suggestion view, simply hovering over a keyword now immediately displays its corresponding translation.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/57/Astro.dmg" type="application/octet-stream" sparkle:edSignature="HtoZY4sGBUM7LC2mcX80qq3SnFJZAB1/dk5GtwOeNSN+ntFn4RYTdMlt3DDNR/HAwqmx5Z5l/5bWYdRZCjfmCw==" length="5145776"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/60/Astro.dmg" type="application/octet-stream" sparkle:edSignature="gZkVtBzZMRDiZLpxl4WGdYOJGJrNpP+eddAU40D3b8TjQ/eAIDHEKwHHneENIXpydgWjOqqe/U+ix7BKnnu6CA==" length="5163670"
  /> 
         </item>
     </channel>
