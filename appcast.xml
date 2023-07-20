@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 61</title>
+            <title>Version 63</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed a bug that prevented some users from adding new keywords.
+                Added the ability to translate multiple keywords by selecting them and right-clicking.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/61/Astro.dmg" type="application/octet-stream" sparkle:edSignature="g2eySpteT23LZfhb/Yx+k1LacxnNNMlEPAVyJvYJZnPt1W21k+JMflHuLPlcQMR4sDt33qHSF4oSqelGVCVmAg==" length="5164425"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/63/Astro.dmg" type="application/octet-stream" sparkle:edSignature="jr5X9nmYkzW5ixfKmZwV7FpnavLpM2ERhsTTy2hBc9zIBsSZFmGzakmgxG4D/oB8Frgn/Q9rU9QxLpkd1X1KCQ==" length="5167029"
  /> 
         </item>
     </channel>
