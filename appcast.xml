@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 67</title>
+            <title>Version 68</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>67</sparkle:version>
+            <sparkle:version>68</sparkle:version>
             <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed a bug that occurred during login.
+                Full support for Mac OS Sonoma, bug fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/67/Astro.dmg" type="application/octet-stream" sparkle:edSignature="LUdzuieeJQELYxrfejwkr5dPWLjd6kx22EvjZfaddQxg2FDq2VD3JuR9Xku9nCzfUsN1vY1fhVW4e62Xx6M4Bg==" length="5167371"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/68/Astro.dmg" type="application/octet-stream" sparkle:edSignature="bLLhQDVoU2rATpeeoCrGwCiqwKSesRFpe77IoDnBDME1UIdiGJy35pGCzmxydtOkDC5xSf8uGBZOMDHPxTe7Ag==" length="5084325"
  /> 
         </item>
     </channel>
