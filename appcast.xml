@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 70</title>
+            <title>Version 74</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed a problem in the suggestion view that did not allow keywords to be added.
+                Implemented a feature to highlight keywords in the title and subtitle of apps. Added a button to copy selected keywords. Added a button to open Astro at login in the settings menu. Bug Fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/70/Astro.dmg" type="application/octet-stream" sparkle:edSignature="YjicjWlykFAZKc9CAO37i1H8Ca7U7GxFBsPhJYUB1n8tNkINkwQhqZ7wchkkWd1g1IQViglbc5KYRibslaiKCQ==" length="5079258"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/74/Astro.dmg" type="application/octet-stream" sparkle:edSignature="gc8/NDigNWq+cdMtvs4IMTbVgWnaRIfHC5jx2hWljjvO0XalkT5o6gadeYUMC8jitV/BDl0ndUdKrNh1t9i8Cw==" length="5089537"
  /> 
         </item>
     </channel>
