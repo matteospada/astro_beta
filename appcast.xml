@@ -3,15 +3,18 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 74</title>
+            <title>Version 75</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>74</sparkle:version>
+            <sparkle:version>75</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Implemented a feature to highlight keywords in the title and subtitle of apps. Added a button to copy selected keywords. Added a button to open Astro at login in the settings menu. Bug Fixing.
+                - You can finally change the order of the Apps in the sidebar
+- The preferred table sorting order is automatically saved now.
+- Restored support for macOS 12.0 
+- Bug Fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/74/Astro.dmg" type="application/octet-stream" sparkle:edSignature="gc8/NDigNWq+cdMtvs4IMTbVgWnaRIfHC5jx2hWljjvO0XalkT5o6gadeYUMC8jitV/BDl0ndUdKrNh1t9i8Cw==" length="5089537"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/75/Astro.dmg" type="application/octet-stream" sparkle:edSignature="HooWAu9mmvKbnUC0F0DNwlEmX0SKLB1a50kZx4SvMB5cA6koOBre2cmPG+yxSjbbMPI9s1KMsFTpHoPaf92oCA==" length="5123295"
  /> 
         </item>
     </channel>
