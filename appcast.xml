@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 76</title>
+            <title>Version 77</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Corrected keyword ranking after Apple's agorithm update.
+                Ranking updated with Apple's new algorithm.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/76/Astro.dmg" type="application/octet-stream" sparkle:edSignature="wGUTQWvOCXwW4O7z27MagjmTgUjkU0ofBymkOhGs84Q/9dXaQ41HryLzXWEubVD6kMENwLGwr/Que7isDuIDDA==" length="4797086"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/77/Astro.dmg" type="application/octet-stream" sparkle:edSignature="16ogOKAQu4xPy7Us4elryt3ATpy1XioImwe4WzxnlO2AY6e3xKMlIIxNu9//QXD6W0n8ga8GXbMYmlnBgeS5AQ==" length="4795531"
  /> 
         </item>
     </channel>
