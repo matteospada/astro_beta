@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 80</title>
+            <title>Version 81</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>80</sparkle:version>
+            <sparkle:version>81</sparkle:version>
             <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Inserted retry logic within the app when updating keywords.
+                fix bug restore session when a keyword was added.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/80/Astro.dmg" type="application/octet-stream" sparkle:edSignature="vqkmAr4n6z/kfi16Z4rAgDp77cZQGlN4RddBUXYCWN/VeuQEVt5d0+ie4EVz1++oxHrZiRhYZEIeOUGAfLikAg==" length="4789055"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/81/Astro.dmg" type="application/octet-stream" sparkle:edSignature="HJO20EAYKa5rhrGOJYGM6JH2/5kIwjaQCqIOryufKUNwfUZLPGwT0ssX+Tzj5Ri3tJEqpO+ywDbMU6KRi53qCA==" length="4790007"
  /> 
         </item>
     </channel>
