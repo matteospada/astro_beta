@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 81</title>
+            <title>Version 82</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>81</sparkle:version>
-            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                fix bug restore session when a keyword was added.
+                Ranking updated with Apple's new algorithm. Bug Fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/81/Astro.dmg" type="application/octet-stream" sparkle:edSignature="HJO20EAYKa5rhrGOJYGM6JH2/5kIwjaQCqIOryufKUNwfUZLPGwT0ssX+Tzj5Ri3tJEqpO+ywDbMU6KRi53qCA==" length="4790007"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/82/Astro.dmg" type="application/octet-stream" sparkle:edSignature="HxcbTp4Mrn7jE6OZ05yoyZIAcYZ4bNccMJmWnfktWXJg3jFFQZkLTeFFieHf/xOmcoQ64p8K3qecLTtAvG0CBA==" length="4790343"
  /> 
         </item>
     </channel>
