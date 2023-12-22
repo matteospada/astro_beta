@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 87</title>
+            <title>Version 88</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>87</sparkle:version>
+            <sparkle:version>88</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed bug that did not allow the log file to be created.
+                Added more logs.EBDND
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/87/Astro.dmg" type="application/octet-stream" sparkle:edSignature="zWjaIioXEIaU+oRKyJHSXqX+ihaQNCmn4E5k4S/dHTiIcpCNJ3WGbCKDzlyzBJbscCf0h6EHtIF1Sump1A0cCg==" length="4794940"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/88/Astro.dmg" type="application/octet-stream" sparkle:edSignature="41E9FbIC9g8g8uUCVnFLQ9uID6heLaiYEBTwI17zSYRIvkS4vK3ZSImQ5Ijov906IDPQt0+rnlRUWH3ga0wfBQ==" length="4795737"
  /> 
         </item>
     </channel>
