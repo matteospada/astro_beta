@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 89</title>
+            <title>Version 90</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>89</sparkle:version>
+            <sparkle:version>90</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Added more logs.
+                changed futureDate function
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/89/Astro.dmg" type="application/octet-stream" sparkle:edSignature="8rmcsAG+7UwPCgZzXHYalxsUQmhlRwKcOjrw8sBmyX5NOJfBbRz3h+fe8QuTS9bU3VCcQQbcm059drwO1xkXDA==" length="4796175"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/90/Astro.dmg" type="application/octet-stream" sparkle:edSignature="wiaBTNcVyo2kk61Nu8c4l5K/82KCtnqOJvgIFHphaIhIWwIkxX5xJW84rGqwhIzZ3GfR0lN+Y+aPdKMH0LTTBw==" length="4795867"
  /> 
         </item>
     </channel>
