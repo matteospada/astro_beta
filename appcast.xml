@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 91</title>
+            <title>Version 92</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>91</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug fixing
+                Performance Improvements.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/91/Astro.dmg" type="application/octet-stream" sparkle:edSignature="3e6vw2cpVRyMZbPw6dUkhoWsHQ+nld8rU3aXUbCjDaKKBFnj3cp6nqCxKL5L/C3lL60cGw+QbVaYDlPuJ4Y8BA==" length="4795651"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/92/Astro.dmg" type="application/octet-stream" sparkle:edSignature="X4kcjlZNYn59YpyyDKw6gpGI7m66pJR98gOm+gkCR7ISLrMFlYT1wqf65doTFzNYPy/bOR9RCmnPy/n80oOjCQ==" length="4796298"
  /> 
         </item>
     </channel>
