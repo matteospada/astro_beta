@@ -9,9 +9,9 @@
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Performance improvements.
+                IMPORTANT: In this update a migration of some DB tables is performed to increase the performance of the App, before updating create a copy of the Astro database. You can find your DB here: /Users/yourusername/Library/Containers/Astro/Data/Library/Application Support/Astro/Model.sqlite
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/94/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ix98Gb7v75Yhd1e+c9EJFV6bts8TJeq0fCwnwf7FcxFbOdKTkmLAkrxMRY+1ZjMHHVwUXq9FHDDjGgCQ2nJ6BQ==" length="4796750"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/94/Astro.dmg" type="application/octet-stream" sparkle:edSignature="RnrsyDdV3qG9MicKAzlCei6GiqtkCD9bpPk741p7uhiC6PmnqEW49dRfdzQSniWLoMLzIVTcRNT2GEmF4aCpCQ==" length="4660245"
  /> 
         </item>
     </channel>
