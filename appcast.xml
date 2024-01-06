@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 95</title>
+            <title>Version 92</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>95</sparkle:version>
+            <sparkle:version>92</sparkle:version>
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                IMPORTANT: In this update a migration of some DB tables is performed to increase the performance of the App, before updating create a copy of the Astro database. You can find your DB here: /Users/yourusername/Library/Containers/Astro/Data/Library/Application Support/Astro/Model.sqlite
+                Performance improvements and bug fixes.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/95/Astro.dmg" type="application/octet-stream" sparkle:edSignature="w/wwa3CguxP9U/09diowd+WFMN6vkkviKpAsTu5ImucYfk/vWX7gwf5XFNnw/5zRdxWVIgoMTfQfAY42R/dLCQ==" length="4660264"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/92/Astro.dmg" type="application/octet-stream" sparkle:edSignature="FTguhzuld338A7vKmAF7zSIG5Gxs/f9XGuZeZ0jJtqyBDejjqrAs4UsyXMVa3mdXb/xA0L0KpkyZ75zFp1+nCw==" length="4989713"
  /> 
         </item>
     </channel>
