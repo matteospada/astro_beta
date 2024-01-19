@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 103</title>
+            <title>Version 104</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>103</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Bug Fixing and performance improvements.
+                Bux Fixing. Added update App Info button to update app information.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/103/Astro.dmg" type="application/octet-stream" sparkle:edSignature="GxcVEfzbkS8SyqWq7vaKk/wxboKMDIww3Iryy8ZfoQRf9hpbQCRvtfgyb76ENg1KtnhfijdrVaAHV1DI635MBQ==" length="5045861"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/104/Astro.dmg" type="application/octet-stream" sparkle:edSignature="CRBa6IbMJ/uqVCoFv8Fjr6intXq84qVlT4BkLekB3DCPN9Pjo3woLCXXTV5nhmdC4AA73rkQwJWRfDRBza2pDg==" length="5040926"
  /> 
         </item>
     </channel>
