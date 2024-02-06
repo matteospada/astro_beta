@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 108</title>
+            <title>Version 109</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>108</sparkle:version>
-            <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+            <sparkle:version>109</sparkle:version>
+            <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Bug Fixing.
+                Vision OS Support
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/108/Astro.dmg" type="application/octet-stream" sparkle:edSignature="4X4Tphk4gJZPe/YJxHMI2uEZit7sod0+x/sbh/NG0aqz4EgeWTHdBXHACYL8cHzmJfbpFwL2KyoMs27Ie0RSBg==" length="5078945"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/109/Astro.dmg" type="application/octet-stream" sparkle:edSignature="JRTcVlSG/JmnFiBxF3EKnBWWTwq1V6amazFt++5OzxscreZcsgvjR2L5ePwZVOYShJhyCvKYyVSTTmOrakBYCg==" length="5083958"
  /> 
         </item>
     </channel>
