@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 110</title>
+            <title>Version 111</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>110</sparkle:version>
+            <sparkle:version>111</sparkle:version>
             <sparkle:shortVersionString>1.11.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                VisionOS Support. Bug Fixing.
+                Added the ability to add tags to keywords.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/110/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ZyCh3JtqicMun0KV3qb/p06nLHB/HHT+3rlMdBaqs1UC1CTidWP+tafJgxA/adF9o8mfOVyY9zeoAolamet5Dg==" length="5097629"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/111/Astro.dmg" type="application/octet-stream" sparkle:edSignature="iSl+6UUQgL2asDvBGgkFAlutoXWSYnFJVZItKzBSwLPiUaR8OEBxNEINgS7M+bXH3S6EydudbpPk2e7/mxX/BA==" length="5157570"
  /> 
         </item>
     </channel>
