@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 111</title>
+            <title>Version 112</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>111</sparkle:version>
-            <sparkle:shortVersionString>1.11.3</sparkle:shortVersionString>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Added the ability to add tags to keywords.
+                Bug Fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/111/Astro.dmg" type="application/octet-stream" sparkle:edSignature="iSl+6UUQgL2asDvBGgkFAlutoXWSYnFJVZItKzBSwLPiUaR8OEBxNEINgS7M+bXH3S6EydudbpPk2e7/mxX/BA==" length="5157570"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/112/Astro.dmg" type="application/octet-stream" sparkle:edSignature="DBWAciQXABNa7CbDNnqSGorDKnQBJbLCbFK597lYUaYjpoEiej1i9lnb4cAD7ZToAsKW+idciodBlbil7UFKCA==" length="5159035"
  /> 
         </item>
     </channel>
