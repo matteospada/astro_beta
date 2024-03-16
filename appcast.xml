@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 114</title>
+            <title>Version 115</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>114</sparkle:version>
+            <sparkle:version>115</sparkle:version>
             <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Added ability to hide icons of top 5 apps.
+                Fixed a bug in Vision Ranking.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/114/Astro.dmg" type="application/octet-stream" sparkle:edSignature="jR4s0T7h8ExXfVMknBVAhHZrGUynbMscKsrfyE+1Wmp5NErgDp/wQmzYJ9/kSGU3/A9xD5qzZHJUQQpB4KnUAw==" length="5208131"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/115/Astro.dmg" type="application/octet-stream" sparkle:edSignature="7h9Mm7f3kd8AJe7ukybsYol4bnEsVgdmxw79ZXjyy0hMXYQOmOcUn/SyP7hic4WNo29J3YZpUkTNB3juff6oBQ==" length="5210801"
  /> 
         </item>
     </channel>
