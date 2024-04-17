@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 119</title>
+            <title>Version 120</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>119</sparkle:version>
-            <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+            <sparkle:version>120</sparkle:version>
+            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Added the following countries: Brazil, Bolivia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Panamá, and Paraguay. Bug Fixing.
+                Bug Fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/119/Astro.dmg" type="application/octet-stream" sparkle:edSignature="/pDMiX+X8A72hkrTRHJln4aQifRUrTe2/kTW2ZogTv0ng+zL0sy7jBHQoAjb7XZBs1S3bSddfkOKZUS4SVAtBw==" length="8444358"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/120/Astro.dmg" type="application/octet-stream" sparkle:edSignature="mSmWDB6u1quBCN+Qxdt1NCfQnfDhldFKeURI6GzRTAlu++sArLGwOMCwZ+2h/mGKa3LNN2B1BHIGzBmGiAVrDg==" length="8440727"
  /> 
         </item>
     </channel>
