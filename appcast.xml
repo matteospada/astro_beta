@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 120</title>
+            <title>Version 121</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>120</sparkle:version>
+            <sparkle:version>121</sparkle:version>
             <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Bug Fixing.
+                Bug Fixing
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/120/Astro.dmg" type="application/octet-stream" sparkle:edSignature="mSmWDB6u1quBCN+Qxdt1NCfQnfDhldFKeURI6GzRTAlu++sArLGwOMCwZ+2h/mGKa3LNN2B1BHIGzBmGiAVrDg==" length="8440727"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/121/Astro.dmg" type="application/octet-stream" sparkle:edSignature="TS3KdJgyJBslEHKWQGRExaLxqB67zYVuQPB1m45eHN+gsOVFUL89zJPuVSKCVVJ1j9ipKBcWWnDkQ3QUsR2TDA==" length="8438619"
  /> 
         </item>
     </channel>
