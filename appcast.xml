@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 129</title>
+            <title>Version 130</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>129</sparkle:version>
-            <sparkle:shortVersionString>2024.5</sparkle:shortVersionString>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>2024.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                App Ratings improvements
+                Added a selector to select the store language in the ranking view.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/129/Astro.dmg" type="application/octet-stream" sparkle:edSignature="1qKMcDl9l89xCYpO3c5BYDdV55BZl4HcEHfJAjtAzRPoqpFIjVmXWJIw8ON5z+KstHfJKtqpUEv/OvqfFQw/CA==" length="9195572"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/130/Astro.dmg" type="application/octet-stream" sparkle:edSignature="d7/1Mo/HTbjVRbT9nzO2KF1KNcsNWa1Pa0g5nTDVW/suylz/sRc9SvMl7ex7oAoAFocFmT5fesHc3iRPFrOkCA==" length="9216378"
  /> 
         </item>
     </channel>
