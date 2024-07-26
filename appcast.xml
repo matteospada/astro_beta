@@ -3,27 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 133</title>
+            <title>Version 135</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>133</sparkle:version>
-            <sparkle:shortVersionString>2024.5.0</sparkle:shortVersionString>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>2024.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                326 / 5.000
-In this version of Astro:
-
-Added the ability to track the ratings of your apps.
-Added an option to pause the keyword update for an app.
-Added the ability to change the store language in the ranking view.
-In this version of Astro:
-
-Added the ability to track the ratings of your apps.
-Added an option to pause the keyword update for an app.
-Added the ability to change the store language in the ranking view.
-Added the count of apps in the "Apps in ranking" column.
+                Bug fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/133/Astro.dmg" type="application/octet-stream" sparkle:edSignature="8WmyGtHCTCJ2gD/1zDnM5+G8fQBICjZhvrY0daI9PaNo3VpDQ1pGkJb2EPMorL5W+0TPDxfoOSHiYyDZRcXmDw==" length="9225083"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/135/Astro.dmg" type="application/octet-stream" sparkle:edSignature="wuIPYuJkM28L9v2EyaCHrjFGocmQV9UzT7/lCykSX2AdPlhOSPxBDDcYdh/r3dGNpHNE3m7BukFMygILNgkWCw==" length="9228586"
  /> 
         </item>
     </channel>
