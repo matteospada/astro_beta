@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 137</title>
+            <title>Version 138</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>137</sparkle:version>
+            <sparkle:version>138</sparkle:version>
             <sparkle:shortVersionString>2024.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Performance improvements.
+                Bug Fixing + New Extract keywords from competitor feature.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/137/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ykw2GEKxFHbxm+GLiD6EQwvZArvvRkHFv/CgjCKIsGU0f6a7gk9pewvVEY/wPNx70AExLyxr5IwR1ikMxHhqAg==" length="9246944"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/138/Astro.dmg" type="application/octet-stream" sparkle:edSignature="yO2ch7KFbiaPTTyXAiFYMZo2W2q9yL+bB63Avy1Cj3oSUJAa5N2gLl80gNIkFlHAX6b5/Jhk+MaCmvEP+wmbAw==" length="9311467"
  /> 
         </item>
     </channel>
