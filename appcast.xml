@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 140</title>
+            <title>Version 141</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>140</sparkle:version>
-            <sparkle:shortVersionString>2024.7.1</sparkle:shortVersionString>
+            <sparkle:version>141</sparkle:version>
+            <sparkle:shortVersionString>2024.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Added the ability to extract competitors' keywords. New suggestion view with keywords where your app is currently ranking.
+                Bug Fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/140/Astro.dmg" type="application/octet-stream" sparkle:edSignature="JyR+ZRt0yGG85+c7tkuaCfvveQxi4tI1qTYymrCKXPLS9BA5fMYYGdxSxFY9+Lw1JQlGTOJIZxpXr2/mdpG2CQ==" length="9311694"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/141/Astro.dmg" type="application/octet-stream" sparkle:edSignature="5ECqCrBHM9ds023vD8n2mXrTuA6Z6QvNwiTts5jbLqdeq9SANxABDxL419qEGBL459DMOz2Ntsdr3ZSufV6eBA==" length="9309933"
  /> 
         </item>
     </channel>
