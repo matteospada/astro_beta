@@ -3,14 +3,14 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 197</title>
+            <title>Version 198</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>197</sparkle:version>
-            <sparkle:shortVersionString>2024.11.1</sparkle:shortVersionString>
+            <sparkle:version>198</sparkle:version>
+            <sparkle:shortVersionString>2024.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <sparkle:releaseNotesLink>https://tryastro.app/release_notes_beta</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/197/Astro.dmg" type="application/octet-stream" sparkle:edSignature="1JzALLlSH0HXriCl/jFBG3/tDiBNOikJVTtCv/sWavnOWzOIV+bqIza0BNifvpqJAPKmuuvegHkuVOzC6eoODQ==" length="8883548"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/198/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ywaGxWlgkRm+vQsQNtIhyaGZrnt0g6yNgnklCBvhLspcpOFeQIhDs1xctRp6llWEqKZw93sDbZ1jc4/HQ/N7BA==" length="8877670"
  /> 
         </item>
     </channel>
