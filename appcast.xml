@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <sparkle:releaseNotesLink>https://tryastro.app/release_notes_beta</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/206/Astro.dmg" type="application/octet-stream" sparkle:edSignature="zKPStVNUvdxhzNp5r03WXMWDjDLJJXSLGRBnl4bEwSkV50GJ8lSNSdjVFEwB9QDCiqyDaaLcFNMiEDmHz2wHCw==" length="8969463"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/206/Astro.dmg" type="application/octet-stream" sparkle:edSignature="P7tu6DVegRl+3uRffr01i5ulCrbmeqgf0JuTiyTNII5E5B3LNt1HW4UQChvPLa2z09sEUY21IHVHtLUeUb2VAg==" length="8969847"
  /> 
         </item>
     </channel>
