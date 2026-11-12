@@ -3,14 +3,14 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 333</title>
-            <pubDate>Thu, 12 Nov 2026 11:09:14 +0000</pubDate>
-            <sparkle:version>333</sparkle:version>
-            <sparkle:shortVersionString>2026.14.1</sparkle:shortVersionString>
+            <title>Version 334</title>
+            <pubDate>Thu, 12 Nov 2026 11:35:50 +0000</pubDate>
+            <sparkle:version>334</sparkle:version>
+            <sparkle:shortVersionString>2026.15.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+            <sparkle:criticalUpdate/>
             <sparkle:releaseNotesLink>https://tryastro.app/release_notes_beta</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/333/Astro.dmg" type="application/octet-stream" sparkle:edSignature="dN8AqGNH0BgNM0Mpe4JlCdl1CjKD2YhClxJIWkSAWWHFIEv2lPMcLkkLvSBeNXGWmA6WjmjcXsSbB1AnVaF1CQ==" length="17772956"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/334/Astro.dmg" type="application/octet-stream" sparkle:edSignature="IVbPvZsOmiVBvN0i+79HeOh+ayiy9zjqQ1FJhOhBhYZU0jUyZKNuGuf1LVGMfQbYhTZTtHcC13JfNsReDdhOCA==" length="17773173"
  /> 
         </item>
     </channel>
